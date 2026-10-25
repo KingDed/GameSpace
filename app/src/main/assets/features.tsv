@@ -1,0 +1,628 @@
+Live overlays|Crosshair
+Live overlays|Crosshair size|s
+Live overlays|Crosshair color|c:Green/Red/White/Cyan
+Live overlays|Auxiliary line
+Live overlays|Counter
+Live overlays|Stopwatch
+Live overlays|Data panel
+Live overlays|Clock
+Live overlays|Shoulder triggers
+Live overlays|Edit trigger markers
+Performance|FPS counter overlay
+Performance|Frame pacing
+Performance|Frame interpolation
+Performance|Unlock 165Hz
+Performance|Thermal throttle guard
+Performance|CPU boost on launch
+Performance|GPU boost on launch
+Performance|RAM clean on launch
+Performance|Background app freeze
+Performance|Game priority scheduler
+Performance|Shader pre-cache
+Performance|Texture streaming boost
+Performance|Low latency mode
+Performance|Adaptive refresh rate
+Performance|Per-game FPS cap|c:30/45/60/90/120/144/165
+Performance|Turbo load
+Touch & Triggers|Touch boost
+Touch & Triggers|Palm rejection
+Touch & Triggers|Edge touch guard
+Touch & Triggers|Multi-touch 10 points
+Touch & Triggers|Touch trail
+Touch & Triggers|Tap ripple
+Touch & Triggers|Swipe smoothing
+Touch & Triggers|Touch prediction
+Touch & Triggers|Trigger haptics
+Touch & Triggers|Trigger debounce
+Touch & Triggers|Rapid-fire limiter
+Touch & Triggers|Trigger swap L/R
+Touch & Triggers|Trigger hold lock
+Touch & Triggers|Gesture lock
+Touch & Triggers|Glove mode
+Touch & Triggers|Double-tap guard
+Display|OLED black mode
+Display|Compact layout
+Display|Disable glow
+Display|Large text
+Display|Grayscale preview
+Display|Night tint
+Display|High contrast
+Display|Invert preview
+Display|Saturation boost
+Display|Mirror preview
+Display|Square corners
+Display|Hide status clock
+Display|Hide nav labels
+Display|HDR simulation
+Display|Sharpening filter
+Display|Anti-flicker dimming
+Audio|Footstep boost
+Audio|Gunshot direction
+Audio|Voice chat ducking
+Audio|Spatial audio
+Audio|Bass cut
+Audio|Treble boost
+Audio|Loudness normalizer
+Audio|Mute notifications
+Audio|Mic noise filter
+Audio|Bluetooth low latency
+Audio|Speaker balance
+Audio|Audio visualizer
+Aim & Overlay|Aim smoothing
+Aim & Overlay|Big targets
+Aim & Overlay|Target highlight
+Aim & Overlay|Target distance label
+Aim & Overlay|Hit marker
+Aim & Overlay|Hit sound
+Aim & Overlay|Haptic on hit
+Aim & Overlay|Screen shake on hit
+Aim & Overlay|Headshot zone
+Aim & Overlay|Combo counter
+Aim & Overlay|Streak announcer
+Aim & Overlay|Recoil guide
+Aim & Overlay|Sensitivity profiles
+Aim & Overlay|ADS sensitivity
+Aim & Overlay|Gyro aim
+Aim & Overlay|Peek assist
+Aim & Overlay|Auto-scope
+Aim & Overlay|Crosshair color cycle
+Battery & Thermal|Charge bypass
+Battery & Thermal|Charge limit 80%
+Battery & Thermal|Fan auto curve
+Battery & Thermal|Fan max on overheat
+Battery & Thermal|Temp alert
+Battery & Thermal|Battery saver at 20%
+Battery & Thermal|Low-power touch
+Battery & Thermal|Screen dim on idle
+Battery & Thermal|Charge cooling pause
+Battery & Thermal|Eco after match
+Network|Dual-band Wi-Fi boost
+Network|Wi-Fi + 5G combine
+Network|Ping overlay
+Network|Packet loss guard
+Network|Low-latency DNS
+Network|Block background data
+Network|Auto reconnect
+Network|Region server picker
+Network|Jitter smoother
+Network|Data saver
+Recording|Back recording
+Recording|Auto-clip kills
+Recording|Record mic
+Recording|Record internal audio
+Recording|Show touches
+Recording|Watermark off
+Recording|Screenshot on hit
+Recording|Highlight reel
+Recording|Record 60fps
+Recording|Auto-delete old clips
+Interface|Edge swipe open cube
+Interface|Floating shortcut ball
+Interface|Quick-launch bar
+Interface|Game folder sorting
+Interface|Show playtime
+Interface|Do-not-disturb
+Interface|Block calls
+Interface|Block banners
+Interface|Lobby wallpaper rotate
+Interface|Startup animation
+Performance|Game mode API hint
+Performance|Sustained performance mode
+Performance|CPU big-core affinity hint
+Performance|CPU governor profile|c:Balanced/Performance/Battery
+Performance|GPU clock profile|c:Auto/High/Max
+Performance|Memory trim on pause
+Performance|Memory trim on resume
+Performance|Kill heavy apps on launch
+Performance|Whitelist apps from cleaner
+Performance|Preload game assets
+Performance|Warm start cache
+Performance|Disable background sync
+Performance|Disable auto-update during game
+Performance|Pause downloads in game
+Performance|Pause cloud backup in game
+Performance|Suspend media scanner
+Performance|Limit background processes
+Performance|Priority for game process
+Performance|I/O priority boost
+Performance|Storage trim after match
+Performance|Frame time graph
+Performance|Frame drop alert
+Performance|1% low FPS tracker
+Performance|Average FPS tracker
+Performance|Max FPS tracker
+Performance|FPS history log
+Performance|Stutter detector
+Performance|Render resolution scale|s
+Performance|Dynamic resolution
+Performance|Fixed 60 FPS lock
+Performance|Fixed 90 FPS lock
+Performance|Fixed 120 FPS lock
+Performance|VSync assist
+Performance|Triple buffering hint
+Performance|Vulkan preference
+Performance|OpenGL ES fallback
+Performance|Texture quality cap|c:Low/Medium/High/Ultra
+Performance|Shadow quality cap|c:Off/Low/High
+Performance|Particle effects cap|c:Low/Medium/High
+Performance|Draw distance cap|s
+Performance|Reduce post-processing
+Performance|Disable motion blur
+Performance|Disable bloom
+Performance|Disable depth of field
+Performance|Lite lobby mode
+Performance|Performance report after match
+Performance|Benchmark on first launch
+Performance|Per-game performance profile
+Performance|Auto profile by game genre
+Performance|Restore defaults on exit
+Touch & Triggers|Touch sampling 480Hz request
+Touch & Triggers|Touch sampling 720Hz request
+Touch & Triggers|Touch latency graph
+Touch & Triggers|Touch heat map
+Touch & Triggers|Touch point counter
+Touch & Triggers|Pressure display
+Touch & Triggers|Touch size display
+Touch & Triggers|Pointer location bar
+Touch & Triggers|Slide speed|s
+Touch & Triggers|Sensitivity curve|c:Linear/Soft/Hard
+Touch & Triggers|Dead zone size|s
+Touch & Triggers|Edge dead zone width|s
+Touch & Triggers|Corner dead zone
+Touch & Triggers|Notch dead zone
+Touch & Triggers|Accidental swipe guard
+Touch & Triggers|Home gesture block in game
+Touch & Triggers|Back gesture block in game
+Touch & Triggers|Recents gesture block in game
+Touch & Triggers|Status bar swipe block
+Touch & Triggers|Navigation bar hide in game
+Touch & Triggers|Screen pinning in game
+Touch & Triggers|Lock touch while recording
+Touch & Triggers|Touch lock overlay
+Touch & Triggers|Triple-finger screenshot
+Touch & Triggers|Four-finger gesture lock
+Touch & Triggers|Trigger L action|c:Single Tap/Double Tap/Long Press/Triple Tap
+Touch & Triggers|Trigger R action|c:Single Tap/Double Tap/Long Press/Triple Tap
+Touch & Triggers|Trigger L2 action|c:Off/Single Tap/Double Tap/Long Press
+Touch & Triggers|Trigger R2 action|c:Off/Single Tap/Double Tap/Long Press
+Touch & Triggers|Trigger sensitivity L|s
+Touch & Triggers|Trigger sensitivity R|s
+Touch & Triggers|Trigger debounce time|s
+Touch & Triggers|Trigger tap duration|s
+Touch & Triggers|Trigger long-press time|s
+Touch & Triggers|Trigger double-tap gap|s
+Touch & Triggers|Trigger marker size|s
+Touch & Triggers|Trigger marker opacity|s
+Touch & Triggers|Trigger marker snap to grid
+Touch & Triggers|Trigger marker lock position
+Touch & Triggers|Trigger sound feedback
+Touch & Triggers|Trigger LED flash
+Touch & Triggers|Trigger visual ripple
+Touch & Triggers|Per-game trigger layout
+Touch & Triggers|Trigger profile export
+Touch & Triggers|Trigger profile import
+Touch & Triggers|Trigger test pads
+Touch & Triggers|Volume keys as triggers
+Touch & Triggers|Headset button as trigger
+Touch & Triggers|Trigger tutorial hints
+Touch & Triggers|Trigger conflict warning
+Display|Brightness lock in game
+Display|Auto brightness off in game
+Display|Brightness slider|s
+Display|Min brightness floor|s
+Display|Blue light filter
+Display|Warm tone|s
+Display|Cool tone|s
+Display|Eye comfort schedule
+Display|Screen dim overlay|s
+Display|Color temperature|s
+Display|Contrast boost|s
+Display|Gamma adjust|s
+Display|Vibrance|s
+Display|Black level lift
+Display|Shadow detail boost
+Display|Highlight recovery
+Display|Color blind mode|c:Off/Protanopia/Deuteranopia/Tritanopia
+Display|Dark UI forced
+Display|Always-on display off in game
+Display|Screen timeout extend in game
+Display|Wake on touch
+Display|Flicker-free DC dimming
+Display|PWM safe mode
+Display|Screen refresh display
+Display|Refresh floor|c:60/90/120/144/165
+Display|Refresh ceiling|c:60/90/120/144/165
+Display|Idle refresh drop
+Display|Touch refresh boost
+Display|Cutout hide
+Display|Rounded corner mask
+Display|Edge lighting
+Display|Border glow color|c:Red/Blue/Green/White
+Display|Border glow width|s
+Display|Overlay opacity|s
+Display|Overlay scale|s
+Display|Overlay position lock
+Display|Overlay auto-hide
+Display|Overlay edge snap
+Display|Overlay dark theme
+Display|Overlay accent color|c:Red/Blue/Green/Gold
+Display|Panel width|s
+Display|Panel height|s
+Display|Panel transparency|s
+Display|Panel blur
+Display|Landscape panel layout
+Display|Portrait panel layout
+Display|Split panel layout
+Display|One-hand panel mode
+Display|Screen zoom for HUD|s
+Display|Font weight|c:Normal/Bold
+Audio|Media volume|s
+Audio|Volume lock in game
+Audio|Volume limiter|s
+Audio|Safe volume warning
+Audio|Mono audio
+Audio|Balance left right|s
+Audio|Equalizer preset|c:Flat/Bass/Treble/Vocal/Gaming
+Audio|Equalizer 60Hz|s
+Audio|Equalizer 250Hz|s
+Audio|Equalizer 1kHz|s
+Audio|Equalizer 4kHz|s
+Audio|Equalizer 12kHz|s
+Audio|Virtual surround
+Audio|Headphone mode
+Audio|Speaker mode
+Audio|Earpiece off
+Audio|Dolby mode hint
+Audio|Hi-res audio request
+Audio|Low latency audio path
+Audio|Audio focus keep
+Audio|Mute lobby music
+Audio|Mute game music
+Audio|Mute voice chat
+Audio|Mute system sounds
+Audio|Mute keyboard clicks
+Audio|Mute charging sound
+Audio|Duck other apps
+Audio|Pause music on launch
+Audio|Resume music on exit
+Audio|Auto switch to headset
+Audio|Auto switch to speaker
+Audio|Bluetooth codec hint|c:Auto/SBC/AAC/LDAC/aptX
+Audio|Bluetooth volume sync
+Audio|Mic gain|s
+Audio|Mic mute shortcut
+Audio|Push to talk
+Audio|Voice changer off
+Audio|Echo cancel
+Audio|Wind noise cut
+Audio|Sidetone
+Audio|Loudness meter
+Audio|Peak limiter
+Audio|Audio delay compensation|s
+Audio|Sound cue overlay
+Audio|Sound cue sensitivity|s
+Audio|Directional cue arrows
+Audio|Haptic audio sync
+Audio|Audio log capture
+Network|Wi-Fi band preference|c:Auto/2.4GHz/5GHz/6GHz
+Network|Wi-Fi scan pause in game
+Network|Wi-Fi roaming lock
+Network|Wi-Fi power save off
+Network|Wi-Fi signal graph
+Network|Wi-Fi channel hint
+Network|Mobile data fallback
+Network|Mobile data off in game
+Network|5G only hint
+Network|Network type display
+Network|Signal strength display
+Network|Download speed display
+Network|Upload speed display
+Network|Data used this session
+Network|Data used today
+Network|Data limit alert|s
+Network|Ping graph
+Network|Ping alert threshold|s
+Network|Ping target|c:Cloudflare/Google/Quad9/Custom
+Network|Packet loss display
+Network|Jitter display
+Network|Latency history
+Network|Server list shortcut
+Network|Server favorite
+Network|Best server hint
+Network|VPN pause in game
+Network|Private DNS hint
+Network|DNS cache clear
+Network|DNS benchmark
+Network|Hotspot off in game
+Network|Bluetooth scan pause
+Network|NFC off in game
+Network|Airplane toggle shortcut
+Network|Network reset shortcut
+Network|Reconnect on drop
+Network|Reconnect delay|s
+Network|Retry limit|s
+Network|Lag spike alert
+Network|Disconnect log
+Network|Network quality score
+Network|Connection test button
+Network|Speed test shortcut
+Network|Router tips
+Network|Metered network flag
+Network|Background data guard
+Network|App data blocklist
+Network|Download queue pause
+Network|Upload queue pause
+Network|Streaming bitrate hint|s
+Network|Cloud gaming mode
+Battery & Thermal|Battery percent display
+Battery & Thermal|Battery temp display
+Battery & Thermal|Battery current display
+Battery & Thermal|Battery voltage display
+Battery & Thermal|Power draw display
+Battery & Thermal|Estimated play time left
+Battery & Thermal|Battery health display
+Battery & Thermal|Charge cycles display
+Battery & Thermal|Charge speed display
+Battery & Thermal|Charge limit|c:70%/80%/90%/100%
+Battery & Thermal|Stop charging at limit
+Battery & Thermal|Resume charging at|s
+Battery & Thermal|Night charge schedule
+Battery & Thermal|Smart charge pause
+Battery & Thermal|Pass-through charging hint
+Battery & Thermal|Charge while playing warning
+Battery & Thermal|Cable heat warning
+Battery & Thermal|Wireless charge warning
+Battery & Thermal|Temp warning level|s
+Battery & Thermal|Temp critical level|s
+Battery & Thermal|Throttle warning
+Battery & Thermal|Cooldown timer
+Battery & Thermal|Cooldown suggestion
+Battery & Thermal|Fan level|c:1/2/3/4/5
+Battery & Thermal|Fan schedule
+Battery & Thermal|Fan on at launch
+Battery & Thermal|Fan off on exit
+Battery & Thermal|Fan noise limit
+Battery & Thermal|Fan curve editor
+Battery & Thermal|Cooling pad hint
+Battery & Thermal|Skin temp display
+Battery & Thermal|CPU temp display
+Battery & Thermal|GPU temp display
+Battery & Thermal|Temp graph
+Battery & Thermal|Temp log
+Battery & Thermal|Hot case alert
+Battery & Thermal|Brightness cut when hot
+Battery & Thermal|FPS cut when hot
+Battery & Thermal|Refresh cut when hot
+Battery & Thermal|Auto Eco when hot
+Battery & Thermal|Auto Rise when cool
+Battery & Thermal|Low battery auto Eco
+Battery & Thermal|Low battery warning|s
+Battery & Thermal|Critical battery save
+Battery & Thermal|Doze exemption hint
+Battery & Thermal|Battery optimization shortcut
+Battery & Thermal|Battery usage shortcut
+Battery & Thermal|Power report
+Battery & Thermal|Session energy used
+Battery & Thermal|Idle drain guard
+Battery & Thermal|Sleep mode after play
+Recording|Record resolution|c:720p/1080p/1440p
+Recording|Record bitrate|s
+Recording|Record FPS|c:30/60/90
+Recording|Record audio source|c:Mic/Internal/Both/None
+Recording|Record countdown
+Recording|Record countdown seconds|s
+Recording|Record timer overlay
+Recording|Record pause button
+Recording|Record stop on screen off
+Recording|Record stop on low storage
+Recording|Record storage limit|s
+Recording|Record folder shortcut
+Recording|Record naming template
+Recording|Record by game folder
+Recording|Back recording length|s
+Recording|Back recording quality|c:SD/HD
+Recording|Back recording key
+Recording|Clip length|s
+Recording|Clip trimmer shortcut
+Recording|Clip share shortcut
+Recording|Clip favorite
+Recording|Clip auto-name
+Recording|Clip thumbnail
+Recording|Clip delete confirm
+Recording|Clip storage report
+Recording|Screenshot format|c:PNG/JPG/WEBP
+Recording|Screenshot quality|s
+Recording|Screenshot sound
+Recording|Screenshot countdown
+Recording|Screenshot burst
+Recording|Screenshot folder shortcut
+Recording|Screenshot by game folder
+Recording|Scrolling screenshot hint
+Recording|Face cam hint
+Recording|Mic only commentary
+Recording|Touch overlay in record
+Recording|Hide overlay in record
+Recording|Hide notifications in record
+Recording|Hide panel in record
+Recording|Record on game start
+Recording|Stop record on game exit
+Recording|Record reminder
+Recording|Recording indicator
+Recording|Recording shortcut ball
+Recording|Recording quick toggle
+Recording|Gallery shortcut
+Recording|Share sheet shortcut
+Recording|Cloud upload hint
+Recording|Wi-Fi only upload
+Recording|Delete after upload
+Interface|Panel handle side|c:Right/Left
+Interface|Panel handle size|s
+Interface|Panel handle opacity|s
+Interface|Panel handle hide
+Interface|Panel handle auto-fade
+Interface|Panel haptics
+Interface|Panel sound
+Interface|Panel open animation
+Interface|Panel close animation
+Interface|Panel animation speed|s
+Interface|Panel close on outside tap
+Interface|Panel close on game switch
+Interface|Panel remember tab
+Interface|Panel start tab|c:Home/Features/Cube/Plugins/Triggers/Settings
+Interface|Panel favorites row
+Interface|Panel recent features
+Interface|Panel search
+Interface|Panel voice search hint
+Interface|Panel category chips
+Interface|Panel compact rows
+Interface|Panel show descriptions
+Interface|Panel show tier badges
+Interface|Panel show profile badge
+Interface|Panel confirm reset
+Interface|Panel lock
+Interface|Panel shortcut to settings
+Interface|Game list sort|c:Name/Recent/Playtime
+Interface|Game list grid
+Interface|Game list icons only
+Interface|Game tile playtime
+Interface|Game tile last played
+Interface|Game tile launch count
+Interface|Game tile favorite
+Interface|Game tile hide
+Interface|Game tile rename
+Interface|Game tile profile badge
+Interface|Game launcher shortcut
+Interface|Add game manually
+Interface|Remove game
+Interface|Auto-detect new games
+Interface|Game category filter
+Interface|Home wallpaper
+Interface|Wallpaper dim|s
+Interface|Accent color|c:Red/Blue/Green/Gold/Purple
+Interface|Theme|c:Dark/OLED/Light
+Interface|Language hint
+Interface|Backup settings
+Interface|Restore settings
+Interface|Reset category
+Energy Cube|Mode Eco
+Energy Cube|Mode Balance
+Energy Cube|Mode Rise
+Energy Cube|Mode auto by game
+Energy Cube|Mode auto by battery
+Energy Cube|Mode auto by temp
+Energy Cube|Mode schedule
+Energy Cube|Mode shortcut ball
+Energy Cube|Mode toast
+Energy Cube|Mode haptic
+Energy Cube|CPU readout
+Energy Cube|GPU readout
+Energy Cube|FPS readout
+Energy Cube|Temp readout
+Energy Cube|Watts readout
+Energy Cube|Battery readout
+Energy Cube|RAM readout
+Energy Cube|Storage readout
+Energy Cube|Network readout
+Energy Cube|Clock readout
+Energy Cube|Gauge style|c:Ring/Bar/Number
+Energy Cube|Gauge color|c:Red/Blue/Green
+Energy Cube|Gauge animation
+Energy Cube|Gauge update rate|c:1s/2s/5s
+Energy Cube|Quick action Wi-Fi
+Energy Cube|Quick action Refresh
+Energy Cube|Quick action Active mode
+Energy Cube|Quick action Info
+Energy Cube|Quick action On-demand rec
+Energy Cube|Quick action Fan
+Energy Cube|Quick action Rotation lock
+Energy Cube|Quick action Screen record
+Energy Cube|Quick action Optimize
+Energy Cube|Quick action Touch accuracy
+Energy Cube|Quick action Charge bypass
+Energy Cube|Quick action Reminder
+Energy Cube|Quick action Flashlight
+Energy Cube|Quick action Screenshot
+Energy Cube|Quick action Do-not-disturb
+Energy Cube|Quick action Volume
+Energy Cube|Quick action Brightness
+Energy Cube|Quick action Bluetooth
+Energy Cube|Quick action Hotspot
+Energy Cube|Quick action Location
+Energy Cube|Quick action Calculator
+Energy Cube|Quick action Notes
+Energy Cube|Quick action Browser
+Energy Cube|Quick action Camera
+Energy Cube|Quick action Timer
+Energy Cube|Diablo Mode warning
+Focus & Privacy|Block all calls in game
+Focus & Privacy|Allow starred calls
+Focus & Privacy|Allow repeat callers
+Focus & Privacy|Auto-reply while gaming
+Focus & Privacy|Block messages in game
+Focus & Privacy|Block heads-up banners
+Focus & Privacy|Block lock screen notifications
+Focus & Privacy|Block app badges
+Focus & Privacy|Block sounds from other apps
+Focus & Privacy|Silence alarms in game
+Focus & Privacy|Allow alarms in game
+Focus & Privacy|Hide notification content
+Focus & Privacy|Hide sensitive notifications
+Focus & Privacy|Hide clipboard
+Focus & Privacy|Clear clipboard on exit
+Focus & Privacy|Block screenshots of panel
+Focus & Privacy|Hide panel from recents
+Focus & Privacy|Hide overlay from screen share
+Focus & Privacy|Lock panel with fingerprint
+Focus & Privacy|Lock panel with PIN
+Focus & Privacy|Lock games with fingerprint
+Focus & Privacy|Lock settings changes
+Focus & Privacy|Guest profile
+Focus & Privacy|Kid profile
+Focus & Privacy|Play time limit|s
+Focus & Privacy|Play time reminder|s
+Focus & Privacy|Break reminder|s
+Focus & Privacy|Eye rest reminder
+Focus & Privacy|Posture reminder
+Focus & Privacy|Hydration reminder
+Focus & Privacy|Late night warning
+Focus & Privacy|Bedtime lock
+Focus & Privacy|Weekend limits
+Focus & Privacy|Daily play report
+Focus & Privacy|Weekly play report
+Focus & Privacy|Session summary
+Focus & Privacy|Session notes
+Focus & Privacy|Session rating
+Focus & Privacy|Mood check
+Focus & Privacy|Focus streak
+Focus & Privacy|Do-not-disturb schedule
+Focus & Privacy|Calendar events pause
+Focus & Privacy|Meeting auto-mute
+Focus & Privacy|Driving mode off
+Focus & Privacy|Location off in game
+Focus & Privacy|Camera access alert
+Focus & Privacy|Mic access alert
+Focus & Privacy|Permission audit
+Focus & Privacy|Tracker block hint
+Focus & Privacy|Ad block hint
+Focus & Privacy|Analytics opt-out hint
+Interface|Panel tips

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/handleRoot"
+    android:layout_width="18dp"
+    android:layout_height="76dp"
+    android:alpha="0.75"
+    android:background="@drawable/bg_handle">
+
+    <View
+        android:layout_width="3dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"
+        android:background="#FFFFFF"
+        android:alpha="0.8" />
+</FrameLayout>
